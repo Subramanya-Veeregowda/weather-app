@@ -1,14 +1,15 @@
 // import React, { useState } from "react";
 import "./App.css";
-import sunny from "./assets/sunny-video.mp4";
-import rain from "./assets/rain.mp4";
-import cloudy from "./assets/cloudy.mp4";
-import storm from "./assets/storm.mp4";
-import logo from "./assets/logo.svg";
-import defaultVideo from "./assets/default.mp4";
+
 import React, { useState, useEffect } from "react";
 
 function App() {
+const sunny = "/assests/sunny-video.mp4";
+const rain = "/assests/rain.mp4";
+const cloudy = "/assests/cloudy.mp4";
+const storm = "/assests/storm.mp4";
+const logo = "/assests/logo.svg";
+const defaultVideo = "/default.mp4";
   const [city, setCity] = useState("");
   const [weather, setWeather] = useState(null);
   const [error, setError] = useState("");
