@@ -1,4 +1,4 @@
-🌤️ WEATHER APPLICATION
+🌤️ ## WEATHER APPLICATION
 A dynamic weather application built with React that displays real-time weather data and animated background videos based on weather conditions.
 
 ## 🚀 Live Demo
