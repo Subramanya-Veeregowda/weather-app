@@ -36,7 +36,6 @@ const defaultVideo = "/default.mp4";
     }
     setLoading(false);
   };
-let background = "";
 
 
 let videoSrc = defaultVideo;
@@ -112,7 +111,7 @@ useEffect(() => {
 
 <div className="hero">
   {!weather && (
-    <img src={logo} className="logo" />
+    <img src={logo} className="logo" alt="Weather-logo"/>
   )}
   
   <h1 className="title">Weather App</h1>
