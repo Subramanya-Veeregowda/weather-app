@@ -1,6 +1,6 @@
 // import React, { useState } from "react";
 import "./App.css";
-import sunny from "./assets/sunny.mp4";
+import sunny from "./assets/sunny-video.mp4";
 import rain from "./assets/rain.mp4";
 import cloudy from "./assets/cloudy.mp4";
 import storm from "./assets/storm.mp4";
