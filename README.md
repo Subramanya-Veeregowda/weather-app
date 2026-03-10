@@ -57,7 +57,7 @@ Screenshots of the application UI:
 
 ## 🌐 Live Demo
 
-🚀 Coming soon (Vercel Deployment)
+🚀 http://weather-app-r186.vercel.app/
 
 ---
 
