@@ -40,6 +40,8 @@ An improved version using *React components, **Bootstrap styling, and **API inte
 Screenshots of the application UI:
 
 - 🏠 Home Page
+  <img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/599d2c19-e580-494c-9422-3dcd66f7e811" />
+
 - 🌦️ Forecast Page
 - 📱 Mobile View
 
