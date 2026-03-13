@@ -1,4 +1,6 @@
 ![Live](https://img.shields.io/badge/●-LIVE-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Status-IN%20PROGRESS-yellow?style=for-the-badge)
+![Coming Soon](https://img.shields.io/badge/COMING-SOON-lightgrey?style=for-the-badge)
 
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
