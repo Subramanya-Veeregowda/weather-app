@@ -2,6 +2,9 @@
 ![Progress](https://img.shields.io/badge/Status-IN%20PROGRESS-yellow?style=for-the-badge)
 ![Coming Soon](https://img.shields.io/badge/COMING-SOON-lightgrey?style=for-the-badge)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=24&center=true&vCenter=true&width=600&lines=🚀+Weather+App+is+LIVE;⚙️+Task+Manager+is+IN+PROGRESS;🔜+URL+Shortener+COMING+SOON)
+[Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=25&center=true&vCenter=true&width=700&lines=🔴+LIVE:+Weather+Application;🟡+IN+PROGRESS:+Task+Management+System;⚪+COMING+SOON:+URL+Shortener)
+
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
 ![API](https://img.shields.io/badge/API-OpenWeather-green)
