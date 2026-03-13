@@ -1,15 +1,7 @@
 <p>
 <span style="color:red; font-weight:bold; animation: blink 1s infinite;">●</span> 
-<b>LIVE</b>
+<b style="color:white; font-weight:bold; animation: blink 1s infinite; ">LIVE</b>
 </p>
-
-<img src="https://media.giphy.com/media/3o7TKz7C7W9yQ5YJkA/giphy.gif" width="12"> *LIVE*
-
-<style>
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style>
 
 ![Live](https://img.shields.io/badge/●-LIVE-blue?style=for-the-badge)
 ![Progress](https://img.shields.io/badge/Status-IN%20PROGRESS-yellow?style=for-the-badge)
